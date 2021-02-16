@@ -17,9 +17,9 @@ const products = [
   },
   {
     _id: "3",
-    name:
+    name: "Sony S 720",
+    image:
       "https://res.cloudinary.com/thomasdea/image/upload/v1613472793/react-api-course/cartShop/camera_hnj3fq.jpg",
-    image: "/images/camera.jpg",
     price: 929.99,
     countInStock: 5,
   },
