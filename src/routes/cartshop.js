@@ -1,6 +1,5 @@
 const express = require("express");
 const cors = require("cors");
-
 const data = require("../_data/products");
 
 const router = express.Router();
